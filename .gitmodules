@@ -1,0 +1,6 @@
+[submodule "house-elegant-web"]
+	path = house-elegant-web
+	url = https://github.com/zwingloo/house-elegant-web.git
+[submodule "house-elegant-backend"]
+	path = house-elegant-backend
+	url = https://github.com/zwingloo/house-elegant-backend.git
